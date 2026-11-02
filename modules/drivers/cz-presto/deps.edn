@@ -1,0 +1,5 @@
+{:paths
+ ["src" "resources"]
+
+ :deps
+ {com.clickzetta/clickzetta-jdbc {:mvn/version "3.0.15"}}}
