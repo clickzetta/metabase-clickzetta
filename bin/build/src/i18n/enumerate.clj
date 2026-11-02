@@ -19,6 +19,8 @@
                            ["/src"
                             "/enterprise/backend/src"
                             "/modules/drivers/bigquery-cloud-sdk/src"
+                            "/modules/drivers/clickzetta/src"
+                            "/modules/drivers/cz-presto/src"
                             "/modules/drivers/druid/src"
                             "/modules/drivers/druid-jdbc/src"
                             "/modules/drivers/mongo/src"
